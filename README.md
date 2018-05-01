@@ -1,2 +1,2 @@
 # cf-tools
-Debian based container with all the cloud foundry tools and openssl
+Debian based container with credhub and openssl
